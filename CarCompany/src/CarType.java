@@ -1,0 +1,9 @@
+
+public enum CarType {
+
+	SWIFTLXI,
+	SWIFTVXI,
+	SWIFTZXI,
+	ALTOLXI,
+	ALTOVXI
+}
